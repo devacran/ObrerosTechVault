@@ -1,0 +1,1 @@
+Que bien que pudiste llegar aqui. Ahora lee esto [[⚙️ Guia rapida de como usar obsidian]]
