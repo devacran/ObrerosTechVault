@@ -67,3 +67,7 @@ Así vas dejando pistas para tu yo del futuro.
 2. Crea tu Vault (tu cuaderno digital, pidele a chatgpt que te diga como)  
 
 3. Descarga unas notas y agregalas a tu vault.
+	1. Ve a https://github.com/devacran/ObrerosTechVault
+	2. Descarga las notas del vault ![[Screenshot 2025-06-15 at 2.48.50 p.m..png|300]]
+	3. Agrega las notas a tu vault
+	4. Empieza con la que dice "Inicia Aqui"
